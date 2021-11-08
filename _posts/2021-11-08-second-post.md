@@ -1,6 +1,4 @@
-___
-title: "About Me"
-layout: default 
+
 ___
 ## About me ##
 This page is to learn a little more about me, Taylor Hartman!
