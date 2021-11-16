@@ -1,9 +1,4 @@
-
 ___
-title: About Me
-author:
-  name: Taylor Hartman 
-  url: "https://tayh12.github.io/tayh12..github.io/"
 categories:
 - about me
 ---
