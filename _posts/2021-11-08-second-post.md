@@ -1,11 +1,8 @@
 ---
-title: About Me
-author:
-  name: Taylor Hartman 
-  url: "https://tayh12.github.io/"
-categories:
-- about
-- welcome
+layout: post
+title: First Post
+---
+- About Me
 ---
 This page is to learn a little more about me, Taylor Hartman!
 
