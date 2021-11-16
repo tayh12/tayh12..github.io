@@ -5,8 +5,7 @@ author:
   name: Taylor Hartman 
   url: "https://tayh12.github.io/tayh12..github.io/"
 categories:
-- about
-- welcome
+- about me
 ---
 This page is to learn a little more about me, Taylor Hartman!
 
