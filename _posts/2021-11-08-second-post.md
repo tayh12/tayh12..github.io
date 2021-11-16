@@ -1,5 +1,4 @@
 ___
-categories:
 - About Me
 ---
 This page is to learn a little more about me, Taylor Hartman!
