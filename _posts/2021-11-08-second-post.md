@@ -1,6 +1,13 @@
 
 ___
-## About me ##
+title: About Me
+author:
+  name: Taylor Hartman 
+  url: "https://tayh12.github.io/tayh12..github.io/"
+categories:
+- about
+- welcome
+---
 This page is to learn a little more about me, Taylor Hartman!
 
 One of my favorite things to do when I have time is to travel. My last big trip I went on was to the United Kingdom. This was one of my all time favorite trips.
