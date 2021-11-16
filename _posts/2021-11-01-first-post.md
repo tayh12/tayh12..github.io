@@ -2,7 +2,6 @@
 layout: post
 title: First Post
 ---
-categories:
 - My Journey to A&M
 ---
 This is my **first post**.
